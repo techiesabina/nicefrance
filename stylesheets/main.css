@@ -47,7 +47,7 @@ font-family: 'News Cycle', sans-serif;
   overflow: auto;
   width: 60%;
   height: 100%;
-  margin: auto;
+  margin: 0;
 }
 
 #side-nav {
@@ -56,7 +56,7 @@ font-family: 'News Cycle', sans-serif;
   overflow: auto;
   width: 30%;
   height: 100%;
-  margin: auto;
+  margin: 0;
 }
 
 #footer {
