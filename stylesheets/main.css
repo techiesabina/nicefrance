@@ -16,6 +16,7 @@ font-family: 'News Cycle', sans-serif;
   box-shadow: 0 5px 5px rgba(0,0,0,0.3);
   z-index: 99999;
   margin: 0;
+  font-size: 35px;
 }
 
 #nav li {
@@ -23,7 +24,6 @@ font-family: 'News Cycle', sans-serif;
   float: left;
   border-right: 1px solid #bbb;
   margin: 5px;
-  max-height: 100%;
 }
 
 #nav li a {
@@ -48,8 +48,8 @@ font-family: 'News Cycle', sans-serif;
 #content {
   background:purple;
   overflow: auto;
-  max-width: 60%;
-  max-height: 100%;
+  width: 60%;
+  height: 100%;
   margin: 0;
 }
 
@@ -57,8 +57,8 @@ font-family: 'News Cycle', sans-serif;
   float: right;
   background: yellow;
   overflow: auto;
-  max-width: 30%;
-  max-height: 100%;
+  width: 30%;
+  height: 100%;
   margin: 0;
 }
 
