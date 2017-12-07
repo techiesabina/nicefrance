@@ -23,6 +23,7 @@ font-family: 'News Cycle', sans-serif;
   float: left;
   border-right: 1px solid #bbb;
   margin: 5px;
+  max-height: 100%;
 }
 
 #nav li a {
