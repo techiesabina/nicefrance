@@ -6,7 +6,7 @@ font-family: 'News Cycle', sans-serif;
 
 #nav ul{
   width: 100%;
-  max-height: 4%;
+  height: 7%;
   background: blue;
   overflow: hidden;
   list-style-type: none;
@@ -42,8 +42,8 @@ font-family: 'News Cycle', sans-serif;
 #content {
   background:purple;
   overflow: auto;
-  max-width: 70%;
-  max-height: 100%;
+  width: 70%;
+  height: 100%;
   margin: auto;
 }
 
@@ -51,15 +51,15 @@ font-family: 'News Cycle', sans-serif;
   float: right;
   background: yellow;
   overflow: auto;
-  max-width: 30%;
-  max-height: 100%;
+  width: 30%;
+  height: 100%;
   margin: auto;
 }
 
 #footer {
   width: 100%;
   background: green;
-  height: 4%;
+  height: 7%;
   margin: auto;
   overflow: hidden;
 }
