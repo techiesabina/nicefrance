@@ -40,6 +40,8 @@ font-family: 'News Cycle', sans-serif;
   height: 90%;
   padding: 0;
   margin: auto;
+  text-align: center;
+  align: center;
 }
 
 #content {
